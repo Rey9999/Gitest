@@ -1,0 +1,144 @@
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+'Menu Démarrer'@
+'Mes documents'@
+ Modèles@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Pictures/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+"Voisinage d'impression"@
+'Voisinage réseau'@
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls .
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+'Menu Démarrer'@
+'Mes documents'@
+ Modèles@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Pictures/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+"Voisinage d'impression"@
+'Voisinage réseau'@
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls -a
+ ./
+ ../
+ .bash_history
+ .cisco/
+ .config/
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+'Menu Démarrer'@
+'Mes documents'@
+ Modèles@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Pictures/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+"Voisinage d'impression"@
+'Voisinage réseau'@
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls Images
+ls: cannot access 'Images': No such file or directory
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls ./Images
+ls: cannot access './Images': No such file or directory
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls /home
+ls: cannot access '/home': No such file or directory
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls /pwd
+ls: cannot access '/pwd': No such file or directory
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ pwd
+/c/Users/8808197C
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ ls /c/Users
+ 8808197C/     Default/         Public/         desktop.ini
+'All Users'@  'Default User'@   defaultuser0/
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ cd
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 ~
+$ cd ..
+
+COMMUN+8808197C@5CD1343GG1 MINGW64 /c/Users
+$
